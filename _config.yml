@@ -14,8 +14,6 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Feed
-    url: /feed.xml
 email: lipsmeike@gmail.com
 # See: https://disqus.com/
 disqus_username: magicmeike
