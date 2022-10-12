@@ -4,10 +4,10 @@ title: Country Roads | Ein Jahr mitten im Nirgendwo
 description: USA Blog
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - USA
+  - Virginia
+  - IJFD
+  - ASF
 show_hero: true
 menu:
   - title: Home
@@ -16,9 +16,9 @@ menu:
     url: /about
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: lipsmeike@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: magicmeike
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -38,7 +38,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://magicmeike.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
