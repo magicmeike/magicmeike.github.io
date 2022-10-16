@@ -18,7 +18,7 @@ Example:
 
 ```yaml
 # site.yml
-name: Jekflix
+name: Country Roads
 ```
 
 #### `title`
@@ -31,7 +31,7 @@ Example:
 
 ```yaml
 # site.yml
-title: Jekflix | A blog theme for Jekyll
+title: Country Roads | Ein Jahr mitten im Nirgendwo
 ```
 
 #### `description`
@@ -44,7 +44,7 @@ Example:
 
 ```yaml
 # site.yml
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: USA Blog
 ```
 
 #### `tags`
@@ -59,10 +59,12 @@ Example:
 # site.yml
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - USA
+  - Virginia
+  - IJFD
+  - Innisfree Village
+  - ASF
+  
 ```
 
 #### `email`
@@ -161,7 +163,7 @@ Set the GitHub username for the website.
 
 ```yaml
 # social.yml
-github_username: github_username
+github_username: magicmeike
 ```
 
 #### `facebook_username`
