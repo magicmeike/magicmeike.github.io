@@ -362,7 +362,7 @@ Example with one column:
 
 ```yaml
 # posts.yml
-two_columns_layout: false
+two_columns_layout: true
 ```
 
 ![Post with one column screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566476792/one-column-screenshot_m1k0xt.jpg)
