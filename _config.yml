@@ -5,18 +5,22 @@ description: USA Blog
 tags:
   - blog
   - USA
-  - Virginia
   - IJFD
   - ASF
+  - Virginia
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
-email: lipsmeike@gmail.com
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: youremail@test.com
 # See: https://disqus.com/
-disqus_username: magicmeike
+disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -49,9 +53,9 @@ highlighter: rouge
 permalink: /:title/
 collections:
   authors:
-    output: true
+  output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: false 
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
