@@ -71,6 +71,7 @@ paginate_content:
       is_generated: true
     single:
       is_generated: true
+      
 
 # SASS
 sass:
